@@ -23,6 +23,14 @@ Este es un proyecto desarrollado como un clon de YouTube, utilizando **Spring Bo
 - **Recomendaciones**: La aplicación sugiere videos basados en el historial de visualización.
 - **Autenticación de Usuarios**: Sistema de registro e inicio de sesión con JWT para proteger rutas.
 
+## Vista previa
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/youtube-clone-angular-java/master/capture1.png "Vista previa 1")
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/youtube-clone-angular-java/master/capture2.png "Vista previa 2")
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/youtube-clone-angular-java/master/capture3.png "Vista previa 3")
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/youtube-clone-angular-java/master/capture4.png "Vista previa 4")
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/youtube-clone-angular-java/master/capture5.png "Vista previa 5")
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/youtube-clone-angular-java/master/capture6.png "Vista previa 6")
+
 ## Requisitos de Instalación
 
 ### Backend
